@@ -1,0 +1,6 @@
+results/
+outputs/
+data/*/
+weights/*/
+classifier/data/*/
+classifier/output/*/

@@ -1,0 +1,9 @@
+pillow
+tqdm
+matplotlib
+opencv-python
+numpy
+torchmetrics
+torch-fidelity
+scikit-image
+bing-image-downloader
